@@ -57,6 +57,7 @@ gap: 10px;
     flex-direction: column;
     gap: 20px;
     align-items: center;
+    margin-top: -15px;
 }
 .btns button{
     width: 270%;
@@ -89,8 +90,11 @@ gap: 10px;
     
 }
 .input-container input{
-    padding: 10px;
+    padding: 12px;
    width: 160%;
+   outline: none;
+   border: none;
+   border-radius: 7px;
 }
 .input-container label{
 font-family: "poppins";
